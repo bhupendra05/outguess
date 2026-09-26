@@ -1,5 +1,5 @@
-assets/index-Bg5R5Mw9.js
-assets/index-Dq4hs3DS.css
+assets/index-CMmEZ6H0.js
+assets/index-DUHYi4Go.css
 assets/nunito-latin-700-normal-Dort48En.woff2
 assets/nunito-latin-700-normal-OcDqTBcA.woff
 assets/nunito-latin-800-normal-D-J0wlBY.woff
